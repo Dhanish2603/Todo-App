@@ -3,7 +3,7 @@ import {
   KeyboardAvoidingView,
   StyleSheet,
   Text,
-  TouchableOpacity,
+  TouchableOpacity,      
   View,
 } from "react-native";
 import Task from "./components/Task";
